@@ -1,4 +1,4 @@
-![GIF](https://github.com/litonroky/litonroky/blob/main/liton.jpg)
+![GIF](https://github.com/litonroky/litonroky/blob/main/Liton.jpg)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Md.+Sajal....;Software+Engineer...;CSharp+ASP.NET...;JavaScript+Expert...;system+Network+Administrator...;WordPress+Expert...;Digital+Marketing+Expert&center=true&size=30">
